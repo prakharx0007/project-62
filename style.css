@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+
+.intro {
+    width: 700px;
+    height: 700px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+carousel inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#myCarousel {
+    background: linear-gradient(#bdc3c7 0%, #2c3e50 100%);
+}
+
+.img {
+    height: 550px;
+    width: 600px;
+}
+
+p {
+    font-size: 30px;
+    color: white;
+    padding-top: 10px;
+}
+
+#myCarousel img {
+    height: 600px;
+    margin-top: 35px;
+}
